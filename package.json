@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint src --max-warnings=0",
     "postinstall":"husky install"
-  },
+  },hipertensão.
   "lint-staged":{
     "src/**/*":[
       "yarn lint --fix"
