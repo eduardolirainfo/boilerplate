@@ -1,7 +1,7 @@
 ## Getting Started
 
 
-### Install Dependeces
+### Install Dependecies
 
 ```bash
 npm install
